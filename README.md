@@ -44,8 +44,26 @@ Each task demonstrates practical coding, problem‑solving, and AI skills.
   - `features.pkl` → Extracted image features  
 
 ---
-
+### Task‑04: Movie Recommendation System
+- Developed a **content‑based movie recommendation system** using the **MovieLens dataset**.  
+- Combined movie genres and tags into feature vectors.  
+- Applied **TF‑IDF vectorization** and **cosine similarity** to compute similarity scores.  
+- Implemented a recommendation function that suggests the top 5 similar movies for a given title.  
+- Deliverables:  
+  - `Task-04.md` → Documentation  
+  - `recommend.py` → Core recommendation logic
+ 
+---
 ##  Purpose
 - Showcase practical coding and AI skills.  
 - Demonstrate structured documentation in Markdown.  
 - Provide transparency with demo code, algorithms, and AI deliverables.  
+- Build a portfolio of completed internship tasks for recruiters and mentors.
+
+---
+
+##  Tech Stack
+- **Languages**: Python, C++  
+- **Libraries**: Pandas, NumPy, Scikit‑Learn, TensorFlow/Keras  
+- **Concepts**: Rule‑based logic, Minimax algorithm, Deep Learning (CNN + LSTM), TF‑IDF, Cosine Similarity  
+- **Datasets**: Custom datasets, Flickr8k (image captioning), MovieLens (recommendation system)  
